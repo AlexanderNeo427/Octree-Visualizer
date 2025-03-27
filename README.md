@@ -1,4 +1,4 @@
-# Spatial Partioning Algorithms
+# Octree Visualizer
 
 Demo Video [Here](https://youtu.be/eF0pfnKq1GU)
 
